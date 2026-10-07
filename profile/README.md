@@ -1,9 +1,17 @@
 <div align="center">
   <a href="https://traceroot.ai/">
-    <img src="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo.png" alt="TraceRoot Logo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo_dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo_light.png">
+      <img src="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo_light.png" alt="TraceRoot Logo" width="560">
+    </picture>
   </a>
 
-[TraceRoot](https://traceroot.ai/) is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets more robust, accurate, and efficient with every release.
+Open Source Self-improving Layer for AI Agents
+
+TraceRoot turns production traces into actionable feedback and evals, closing the self-improving loop with your coding agent.
+
+Background coding agents investigate traces and connected GitHub code in a sandbox to suggest fixes. Apply changes with your coding agent and verify them with offline evals.
 
   [![Y Combinator][y-combinator-image]][y-combinator-url]
   [![License][license-image]][license-url]
