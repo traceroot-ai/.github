@@ -9,10 +9,6 @@
 
 Open Source Self-improving Layer for AI Agents
 
-TraceRoot turns production traces into actionable feedback and evals, closing the self-improving loop with your coding agent.
-
-Background coding agents investigate traces and connected GitHub code in a sandbox to suggest fixes. Apply changes with your coding agent and verify them with offline evals.
-
   [![Y Combinator][y-combinator-image]][y-combinator-url]
   [![License][license-image]][license-url]
   [![X (Twitter)][twitter-image]][twitter-url]
@@ -28,6 +24,10 @@ Background coding agents investigate traces and connected GitHub code in a sandb
     <a href="https://discord.gg/TM2m3CtKuC">Community</a>
   </p>
 </div>
+
+## TraceRoot
+
+TraceRoot turns production traces into actionable feedback and evals, closing the self-improving loop with your coding agent.
 
 <!-- Links -->
 [discord-image]: https://img.shields.io/discord/1395844148568920114?logo=discord&labelColor=%235462eb&logoColor=%23f5f5f5&color=%235462eb
