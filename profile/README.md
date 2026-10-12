@@ -7,7 +7,7 @@
     </picture>
   </a>
 
-Open Source Self-improving Layer for AI Agents
+Open Source AI Agent Improvement Platform
 
   [![Y Combinator][y-combinator-image]][y-combinator-url]
   [![License][license-image]][license-url]
