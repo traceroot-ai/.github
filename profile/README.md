@@ -9,6 +9,8 @@
 
 Open Source AI Agent Improvement Platform
 
+Find the patterns in your agent's production issues. Ship verified fixes with your coding agent.
+
   [![Y Combinator][y-combinator-image]][y-combinator-url]
   [![License][license-image]][license-url]
   [![X (Twitter)][twitter-image]][twitter-url]
