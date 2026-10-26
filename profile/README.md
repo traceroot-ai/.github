@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://traceroot.ai/">
+  <a href="https://traceroot.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-navigation&amp;utm_content=org-profile-logo-en">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo_dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/traceroot-ai/traceroot/main/frontend/ui/public/images/traceroot_logo_light.png">
@@ -18,8 +18,9 @@ Open Source AI Agent Improvement Platform
   [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-5562EA)](https://deepwiki.com/traceroot-ai/traceroot)
 
   <p>
+    <a href="https://traceroot.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-navigation&amp;utm_content=org-profile-website-en">Website</a> ·
     <a href="https://app.traceroot.ai">Cloud</a> ·
-    <a href="https://traceroot.ai/docs">Documentation</a> ·
+    <a href="https://traceroot.ai/docs/getting-started/introduction?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-navigation&amp;utm_content=org-profile-docs-en">Documentation</a> ·
     <a href="https://github.com/traceroot-ai/traceroot">Source code</a> ·
     <a href="https://discord.gg/TM2m3CtKuC">Community</a>
   </p>
